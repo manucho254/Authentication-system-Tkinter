@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 class Login:
     def __init__(self, master):
         self.master = master
